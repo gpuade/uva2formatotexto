@@ -1,0 +1,32 @@
+.clsimperio{
+    background-color: red;
+}
+
+.clsrebeldes{
+    background-color: blue;
+}
+
+#dv{
+    font-size:20px;
+}
+
+#luke{
+    font-style: italic;
+}
+
+.soldados{
+    border: 1px;
+    border-style: dashed;
+}
+
+.soldados_esp_letra{
+    letter-spacing: 3px;
+}
+
+.unidadapoyo{
+    text-align: center;
+}
+
+.naves{
+    text-transform: uppercase;
+}
